@@ -1,6 +1,6 @@
-# Project Title
+# Minecraft Biome CNN Classifier
 
-Minecraft Biome CNN Classifier
+
 
 ## Description
 
